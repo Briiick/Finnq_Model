@@ -4,15 +4,15 @@
 
 --- 
 
-### Opening Thoughts
+### Summary
 
-Upon beginning our project to classify users based upon the questions they answered, we realised there was a problem: the amount of data we can collect from questions asked in an on-boarding process is minimal. 
+This project is being completed as independent project interns for SK Telecom. We are working on Finnq, a FinTech startup owned by SK Telecom and Hana Bank that seeks to disrupt the South Korean FinTech industry.
 
-Hence, we decided to reconsider the way we could obtain insights from Finnq users to create targeted experiences.
+Specifically, our project - brainstormed by our team and agreed upon as having the capability to add value to Finnq - seeks to personalise user experience through use of a classification model
 
 ---
 
-### Project Scope (Working Thesis):
+### Project Scope:
 
 **"We are looking to understand how using a user persona model will allow for greater optimisation and a better, personalised user experience for incoming FinnQ users."**
 
